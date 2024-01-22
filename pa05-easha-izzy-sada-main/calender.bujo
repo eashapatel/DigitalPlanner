@@ -1,0 +1,1 @@
+{"totalEvents":2,"totalTasks":0,"events":[{"name":"dinner","description":"with family","time":{"hour":18,"min":30},"duration":30,"weekday":"WEDNESDAY","category":"PERSONAL"},{"name":"birthday party","description":"sister's","time":{"hour":1,"min":30},"duration":60,"weekday":"FRIDAY","category":"PERSONAL"}],"tasks":[],"theme":"LIGHT","maxTasks":2,"maxEvents":2}

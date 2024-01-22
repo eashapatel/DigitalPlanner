@@ -1,0 +1,1 @@
+{"totalEvents":1,"totalTasks":1,"events":[{"name":"dinner","description":"w fam","time":{"hour":18,"min":30},"duration":60,"weekday":"MONDAY","category":"PERSONAL"}],"tasks":[{"name":"do ood","description":"pa 05","weekday":"THURSDAY","category":"HOMEWORK","complete":false}],"theme":"LIGHT","maxTasks":0,"maxEvents":0}
